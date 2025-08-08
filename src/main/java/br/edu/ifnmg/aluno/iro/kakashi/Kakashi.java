@@ -1,6 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 package br.edu.ifnmg.aluno.iro.kakashi;
 
 import io.github.guisso.jankenpon.AbstractPlayer;
@@ -8,7 +5,7 @@ import io.github.guisso.jankenpon.Move;
 
 /**
  *
- * @author iagor
+ * @author IagoRochaDev(GIT)
  */
 public class Kakashi
         extends AbstractPlayer {
